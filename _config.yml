@@ -1,7 +1,7 @@
 # Site settings
 title: '*'
 description: >
-  Arnavut kaldirimlari
+  Mochi Mochi
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://papergamesison.github.io/" # the base hostname & protocol for your site

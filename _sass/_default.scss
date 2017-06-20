@@ -69,6 +69,7 @@ strong {
 }
 
 .header {
+    margin-top:-50px;
     overflow: hidden;
 }
 
@@ -77,8 +78,8 @@ strong {
 }
 
 .logo {
-    font-family: 'Gill Sans', sans-serif;
-    font-size: 50px;
+    font-family: 'Inconsolata' 'Gill Sans', sans-serif;
+    font-size: 30px;
     font-weight: 700;
     color: $iron;
     display: block;
@@ -130,7 +131,7 @@ strong {
     text-transform:uppercase;
     letter-spacing:0.2rem;
     font-weight: 600;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .page-title__subtitle {
@@ -144,11 +145,17 @@ strong {
 }
 
 .post-title__text {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .post-title__subtitle {
     font-size: 20px;
+}
+
+.cat_sep {
+    width:16%;
+    border-style:solid;
+    border-width:1px;
 }
 
 /* =Post teasers */
